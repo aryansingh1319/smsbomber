@@ -73,6 +73,6 @@ bash sms.sh
 Apache 2.0 © Aryan Singh
 
 
-## Screenshots (Termux)
+
 
 <br>
